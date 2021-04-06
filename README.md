@@ -1,3 +1,4 @@
+<center>
 ![Discord](https://discord.c99.nl/widget/theme-3/742488804031725582.png)
 ---
 
