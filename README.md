@@ -9,7 +9,5 @@ Hello, I'm **Ahmed.**
 <br>
 <br>
 
-<br>
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedbinmoh) 
