@@ -8,7 +8,6 @@ Hello, I'm **Ahmed.**
 - Chatty-App Dev (http://chatty-app.com)
 <br>
 <br>
-![Metrics](https://github-readme-stats.vercel.app/api?username=ahmedbinmoh&show_icons=true&theme=radical)
 
 <br>
 <br>
