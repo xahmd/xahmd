@@ -9,10 +9,7 @@ Hello, I'm **Ahmed.**
 <br>
 <br>
 - Get in touch : hfl@outlook.sa
-
-<i class="bi bi-envelope"></i>
-
 <br>
-
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/ahmedbinmoh) 
