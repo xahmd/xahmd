@@ -1,7 +1,7 @@
 
 ---
 
-Hello, I'm **Ahmed.** 
+Hello, I'm **Ahmed.** Self-Taught Swe.
 <br>
 <br>
 - https://xahmed.com/
