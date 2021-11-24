@@ -14,4 +14,3 @@ Hello, I'm **Ahmed.**
 
 <center>
 ![Profile views](https://gpvc.arturio.dev/ahmedbinmoh) 
-</center>
