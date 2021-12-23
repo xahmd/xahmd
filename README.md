@@ -2,6 +2,7 @@
 ---
 
 Hello, I'm **Ahmed.** 
+<center>
 <br>
 <br>
 - https://xahmed.com/
