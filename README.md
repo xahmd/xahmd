@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36E9F7&width=435&lines=Hey%2C+Iam+Ahmed+%3A;Iam+FullStack+Developer;check+out+more+%3A+xahmed.com)](https://git.io/typing-svg)<center>
  <br>
  <br>
- - https://xahmed.com/
+ - [https://xahmed.com/](https://xahmed.dev/)
  <br>
    <br>
   <br>
 </center>
-- Get in touch : hfl@outlook.sa
+
 <br>
 <br>
 
